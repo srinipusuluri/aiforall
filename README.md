@@ -94,6 +94,13 @@ flowchart TD
 
     subgraph Excel
         E1[Python Scripts in Excel]
+        E2[Macros & Automation]
+        E3[Data Analysis]
+    end
+    E --> E1
+    E --> E2
+    E --> E3
+
 
 
 ---
