@@ -39,7 +39,6 @@ AI For All provides a **structured step-by-step learning path**:
 - **AI Jobs Search** – Curated portal links to find AI roles  
 - **Agentforce / Salesforce AI** – Tutorials, guides, and demos
 
----
 
 ## 🖼 Features
 
@@ -49,61 +48,7 @@ AI For All provides a **structured step-by-step learning path**:
 - Clean, modern layout with icons and visual cues  
 - Option to integrate projects and demos
 
-# 🌐 AI For All – Learning Journey Flow
 
-```mermaid
-flowchart TD
-    A[📘 Concepts & Foundations] --> B[🎓 Learn]
-    B --> C[🛠 Build]
-    C --> D[🚀 Deploy]
-    D --> E[📊 Excel Integration]
-    
-    subgraph Concepts
-        A1[AI Basics]
-        A2[Python]
-        A3[Data Science]
-    end
-    A --> A1
-    A --> A2
-    A --> A3
-    
-    subgraph Learn
-        B1[Tutorials]
-        B2[Online Courses]
-        B3[Articles & Videos]
-    end
-    B --> B1
-    B --> B2
-    B --> B3
-
-    subgraph Build
-        C1[Mini-Projects]
-        C2[Practice Exercises]
-    end
-    C --> C1
-    C --> C2
-
-    subgraph Deploy
-        D1[Web Apps]
-        D2[APIs]
-        D3[Cloud Deployment]
-    end
-    D --> D1
-    D --> D2
-    D --> D3
-
-    subgraph Excel
-        E1[Python Scripts in Excel]
-        E2[Macros & Automation]
-        E3[Data Analysis]
-    end
-    E --> E1
-    E --> E2
-    E --> E3
-
-
-
----
 
 ## 🚀 How to Use
 
